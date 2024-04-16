@@ -1,23 +1,23 @@
  <p align="center">  
   <a href="">
-    <img alt="PRINCE" width="600" height="350" src="https://i.imgur.com/iI086tX.jpeg">
+    <img alt="PRINCE" width="600" height="350" src="https://i.imgur.com/cp9ff7s.jpeg">
   </a>
 </p>
 
 
 
 <p align="center">
-<a href="https://github.com/PRINCE-GDS/THE-PRINCE-BOT"><img title="Author" src="https://img.shields.io/badge/THE PRINCE BOT-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/moibengoat834/PRINCEKEVOH-BOT"><img title="Kevoh" src="https://img.shields.io/badge/THE PRINCE BOT-black?style=for-the-badge&logo=github"></a>
 <p/>
 
 <p align="center">
 <a href="https://github.com/PRINCE-GDS?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/PRINCE-GDS?label=Followers&style=social"></a>
-<a href="https://github.com/PRINCE-GDS/THE-PRINCE-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/PRINCE-GDS/THE-PRINCE-BOT?&style=social"></a>
-<a href="https://github.com/PRINCE-GDS/THE-PRINCE-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/PRINCE-GDS/THE-PRINCE-BOT?style=social"></a>
-<a href="https://github.com/PRINCE-GDS/THE-PRINCE-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/PRINCE-GDS/THE-PRINCE-BOT?label=Watching&style=social"></a>
+<a href="https://github.com/PRINCE-GDS/THE-PRINCE-BOT/stargazers/"><img title="Stars" src="https://i.imgur.com/cp9ff7s.jpeg"></a>
+<a href="https://github.com/moibengoat83r/PRINCEKEVOH-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/moibengoat834/THE-PRINCE-BOT?style=social"></a>
+<a href="https://github.com/PRINCE-GDS/THE-PRINCE-BOT/watchers"><img title="Watching" src="https://i.imgur.com/cp9ff7s.jpeg"></a>
 </p>
  
-<h1 align="center">💦ᴘʀɪɴᴄᴇ-ᴍᴅ💦</h1>
+<h1 align="center">💦ᴘʀɪɴᴄᴇkEVOH-ᴍᴅ💦</h1>
 
 #### 💦💦To Change the owner number click here [CHANGE ONWER](https://github.com/PRINCE-GDS/THE-PRINCE-BOT/blob/main/plugins/main-creator.js#L7)💦💦
 

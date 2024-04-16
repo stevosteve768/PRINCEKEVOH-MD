@@ -126,10 +126,10 @@ global.packname = 'Kevoh♥️'
 global.author = 'Kevoh♥️' 
 global.princeig = 'https://www.instagram.com' 
 global.princegp = 'https://chat.whatsapp.com/GWJkAJSgbv27sGOMLAzMDS'
-global.menuvid = 'https://i.imgur.com/GFAAXqw.mp4'
+global.menuvid = 'https://i.imgur.com/cp9ff7s.jpeg'
 global.Princesc = 'https://github.com/moibengoat834/PRINCEKEVOH-MD' 
 global.princeyt = 'https://youtube.com/'
-global.Princelog = 'https://i.imgur.com/cUvIv5w.jpeg'
+global.Princelog = 'https://i.imgur.com/cp9ff7s.jpeg'
 global.thumb = fs.readFileSync('./Assets/Prince.png')
 //💌------------------------------------------💌
 

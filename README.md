@@ -31,7 +31,7 @@
 
 
 #### 𝗦𝗘𝗦𝗦𝗜𝗢𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘
-<a href="https://princebotqr.onrender.com/"><img height= "40" title="Author" src="https://img.shields.io/badge/SESSION ID-black?style=for-the-badge&logo=render"></a>
+<a href="https://princebotqr.onrender.com/"><img height= "40" title="Kevohpairroute" src="https://img.shields.io/badge/SESSION ID-black?style=for-the-badge&logo=render"></a>
 <p/>
 
 

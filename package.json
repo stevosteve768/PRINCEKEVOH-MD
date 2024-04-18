@@ -1,5 +1,5 @@
 {
-"name": "Prince-MD",
+"name": "Kevoh-MD",
 "version": "1.7.0",
 "description": "Super Bot WhatsApp",
 "main": "index.js",
@@ -17,16 +17,16 @@
 "test": "node test.js",
 "test2": "nodemon index.js" },
     
-"homepage": "https://github.com/PRINCE-GDS/MR-PRINCE-BOT",
+"homepage": "https://github.com/moibengoat834/PRINCEKEVOH-MD",
 "author": {
-"name": "MR GDS" },
+"name": "MR KEVOH" },
     
 "repository": {
 "type": "git",
-"url": "git+https://github.com/PRINCE-GDS/MR-PRINCE-BOT.git" },
+"url": "git+https://github.com/moibengoat834/PRINCEKEVOH-MD.git" },
 
 "bugs": {
-"url": "https://github.com/PRINCE-GDS/MR-PRINCE-BOT/issues" },
+"url": "https://github.com/moibengoat834/PRINCEKEVOH-MD/issues" },
 "license": "GPL-3.0-or-later",
 "dependencies": {
 "@whiskeysockets/baileys": "^6.5.0",
